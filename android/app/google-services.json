@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072346609868",
+    "project_id": "zypherion-de748",
+    "storage_bucket": "zypherion-de748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072346609868:android:57d9876480c0f582a5ea69",
+        "android_client_info": {
+          "package_name": "com.jnc.zypherion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCROAZyKkYUj4McXlSsaChpABYX9PxyshI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
